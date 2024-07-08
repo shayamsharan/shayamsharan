@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shayam Sharan C</h1>
 <h3 align="center">I am a passionate student currently pursuing a degree in Computer Science Engineering</h3>
-![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/shayamsharan/shayamsharan/assets/122509717/3208ce05-764e-4449-9b36-af38cf5f8b7f)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayamsharan&label=Profile%20views&color=0e75b6&style=flat" alt="shayamsharan" /> </p>
 
